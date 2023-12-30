@@ -16,7 +16,7 @@ Vzhledem k tomu, že tento projekt byl implementován v rámci kurzu pro začát
 ## Příprava projektu a spuštění aplikace
 
 ```bash
-git clone https://github.com/h0ldemslav/high-school-projects.git
+git clone https://github.com/navratilmartin/detsky-oddil-IS.git
 
 cd ./high-school-projects/oddilovy-system
 
@@ -39,7 +39,7 @@ Admin:
 
 ## Autoři
 
+- Martin Navrátil
 - Filip Adámek
 - Daniil Astapenko
 - Pavol Faško
-- Martin Navrátil
